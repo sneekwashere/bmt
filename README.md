@@ -215,7 +215,7 @@ You have displayed competence, dedication, and respect to both your superiors an
 Thus, you have graduated from Basic Military Training and are now enlisted as a Private into the British Army.
 ```
 ```
-Congratulations.
+Congratulations! Stay here while I rank you.
 ```
 ```
 DO NOT LEAVE. I WILL NOW LOG YOUR TRAINING.
