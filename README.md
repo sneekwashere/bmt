@@ -59,22 +59,22 @@ YOU WILL NOW GO THROUGH THE DRILLS AS I HAVE TAUGHT THEM TO YOU.
 SQUAD,
 ```
 ```
-LEFT, TURN!
-```
-```
 RIGHT, TURN!
-```
-```
-ABOUT, TURN!
-```
-```
-CENTRE, TURN!
 ```
 ```
 RIGHT, INCLINE!
 ```
 ```
-LEFT, INCLINE!
+ABOUT, TURN!
+```
+```
+LEFT, TURN!
+```
+```
+CENTER, TURN!
+```
+```
+CENTER, TURN!
 ```
 ```
 SINGLE FILE LINE ON ME!
@@ -123,6 +123,15 @@ Sit in the chair in front of you.
 ```
 ```
 After you read each slide , say “Read, Instructor.”
+```
+```
+Codex,
+```
+```
+Future.
+```
+```
+Communications.
 ```
 ```
 Squad,
