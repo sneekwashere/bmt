@@ -212,14 +212,14 @@ Recruits,
 You have displayed competence, dedication, and respect to both your superiors and fellow Recruits.
 ```
 ```
-Thus, you have graduated from Basic Military Training and are now enlisted as a Private into the British Army.
+Thus, I am awarding you graduation from this BMT and a promotion to Private.
+```
+```
+Remember, to progress further, you must join the Communications Server.
+```
+```
+The invite code is .gg/BA.
 ```
 ```
 Congratulations! Stay here while I rank you.
-```
-```
-DO NOT LEAVE. I WILL NOW LOG YOUR TRAINING.
-```
-```
-YOU MAY NOW REJOIN THE GAME.
 ```
